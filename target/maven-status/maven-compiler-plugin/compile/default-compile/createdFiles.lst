@@ -1,0 +1,13 @@
+com\huffman_cli\utils\Tree.class
+com\huffman_cli\utils\io\BitInputStream.class
+META-INF\native-image\picocli-generated\com.huffman_cli\huffman_cli\reflect-config.json
+com\huffman_cli\App.class
+com\huffman_cli\utils\HuffmanCoding.class
+com\huffman_cli\utils\file_handle\FileUtils.class
+com\huffman_cli\Operations.class
+com\huffman_cli\utils\file_handle\FilePath.class
+META-INF\native-image\picocli-generated\com.huffman_cli\huffman_cli\resource-config.json
+com\huffman_cli\utils\io\BitOutputStream.class
+META-INF\native-image\picocli-generated\com.huffman_cli\huffman_cli\proxy-config.json
+com\huffman_cli\utils\Data.class
+com\huffman_cli\HuffmanCommand.class
